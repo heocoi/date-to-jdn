@@ -15,6 +15,7 @@ import dateToJdn from "date-to-jdn";
 
 dateToJdn(new Date('2024-02-09'));
 //=> 2460370
+// = 2024-02-29 12:00:00 UTC
 ```
 
 ## API
