@@ -1,6 +1,6 @@
 {
   "name": "date-to-jdn",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A npm package for converting Gregorian calendar date to Julian Day Number (JDN).",
   "license": "MIT",
   "repository": "heocoi/date-to-jdn",
